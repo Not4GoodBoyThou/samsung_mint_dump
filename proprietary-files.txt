@@ -1,0 +1,48 @@
+# All blobs from mintxx-user 4.1.2 JZO54K S5282XXANF3 release-keys, unless pinned
+
+# Audio
+
+# Bluetooth
+vendor/lib/libbt-vendor.so
+
+# Camera
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so
+
+# Display-Hardware
+
+# Firmware
+vendor/firmware/fw_bcmdhd.bin
+vendor/firmware/fw_bcmdhd_apsta.bin
+vendor/firmware/fw_bcmdhd_p2p.bin
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc

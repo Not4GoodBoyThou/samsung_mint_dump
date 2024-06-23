@@ -1,0 +1,20 @@
+## mintxx-user 4.1.2 JZO54K S5282XXANF3 release-keys
+- Manufacturer: samsung
+- Platform: sc8810
+- Codename: mint
+- Brand: samsung
+- Flavor: cm_mint2g-userdebug
+- Release Version: 5.1.1
+- Kernel Version: 3.0.101
+- Id: LMY48W
+- Incremental: 85cb22cf98
+- Tags: test-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: undefined
+- Screen Density: 120
+- Fingerprint: samsung/mintxx/mint:4.1.2/JZO54K/S5282XXANF3:user/release-keys
+- OTA version: 
+- Branch: mintxx-user-4.1.2-JZO54K-S5282XXANF3-release-keys
+- Repo: samsung_mint_dump

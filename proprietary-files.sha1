@@ -1,0 +1,48 @@
+# All blobs are from "mintxx-user 4.1.2 JZO54K S5282XXANF3 release-keys" and are pinned with sha1sum values
+
+# Audio
+
+# Bluetooth
+vendor/lib/libbt-vendor.so|48229e37be730b54dbcdab11585f490c2f6c7cdb
+
+# Camera
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so|4917654434b590da67badc0af4b3cf5bc3979fde
+
+# Display-Hardware
+
+# Firmware
+vendor/firmware/fw_bcmdhd.bin|8acdfabd4e25a35fa0a27b6ef4be8e17e6efa626
+vendor/firmware/fw_bcmdhd_apsta.bin|8acdfabd4e25a35fa0a27b6ef4be8e17e6efa626
+vendor/firmware/fw_bcmdhd_p2p.bin|8acdfabd4e25a35fa0a27b6ef4be8e17e6efa626
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
